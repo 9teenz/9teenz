@@ -16,9 +16,6 @@
 </div>
 
 <div id='text' align='center'
-<h1>
-I'm Backend Developer
-<h1>
 <img src="https://komarev.com/ghpvc/?username=9teenz&style=flat-square&color=blue" alt=""/>  
 </div>
 
