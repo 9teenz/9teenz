@@ -15,10 +15,5 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hlZWxwdDYwNGhmbW51ODBobjE3aHF1ZXhjanViMmRnbmJsd2RpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" width="600" height="300"/>
 </div>
 
-<div id='text' align='center'
-<img src="https://komarev.com/ghpvc/?username=9teenz&style=flat-square&color=blue" alt=""/>  
-</div>
-
-
 
  
